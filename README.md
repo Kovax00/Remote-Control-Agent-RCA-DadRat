@@ -1,6 +1,7 @@
 # Remote-Control-Agent-RCA-DadRat
 "DadRat" es un agente de administración y control remoto diseñado para laboratorios de seguridad, simulaciones controladas y ejercicios de investigación ofensiva/defensiva.
-<img width="1276" height="750" alt="image" src="https://github.com/user-attachments/assets/0ec4c5da-e50e-4fc7-bc65-13e33a29b339" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/0ec4c5da-e50e-4fc7-bc65-13e33a29b339" />
 
 ## ⚠️ Disclaimer
 Este proyecto es una herramienta profesional diseñada para
